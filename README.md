@@ -26,4 +26,4 @@ A React application that allows users to explore characters, planets, and starsh
 
 ## API
 
-This project uses the [Star Wars API (SWAPI)](https://swapi.dev/) to fetch data about the Star Wars universe.
+This project uses the [Star Wars API (SWAPI)](https://swapi.dev/) to fetch data about the Star Wars universe."# Starwars" 
